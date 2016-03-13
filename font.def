@@ -1,0 +1,17 @@
+\settextfont[Script=Parsi, Mapping=parsidigits, Scale=1, HyphenChar="002D]{XB Zar}
+\setpersiansansfont[Script=Parsi, Mapping=parsidigits, Scale=1, HyphenChar="002D]{XB Yas}
+\setpersianmonofont[Script=Parsi, Mapping=parsidigits, Scale=1, HyphenChar="002D]{XB Yas}
+%\setlatintextfont[Mapping=tex-text]{Cambria}
+%\setlatinsansfont[Mapping=tex-text]{Calibri}
+%\setlatinmonofont[Mapping=tex-text]{Consolas}
+% \setmathfont{XITS Math}
+%\setmathfont[range={"0030-"0039,"06F0-"06F9}, Mapping=parsidigits]{Parsi Digits}
+\setdigitfont{XB Zar}
+\PersianMathsDigits
+
+%\defpersianfont\nazli[BoldItalicFont={XB Zar Bold Italic}, ItalicFont={XB Zar Italic}, Script=Parsi, Scale=1.16, Mapping=parsidigits, HyphenChar="002D]{Nazli}
+\defpersianfont\nastaliq[Script=Parsi, Mapping=parsidigits, HyphenChar="002D]{IranNastaliq}
+%\defpersianfont\nemad{Nemad}
+\defpersianfont\titr[Script=Parsi, Mapping=parsidigits, Scale=1, HyphenChar="002D]{XB Titre}
+
+\let\mathcal\mathscr

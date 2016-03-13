@@ -1,4 +1,5 @@
-Beamer-Theme-Execushares
+AUT-Thesis-presentation-Theme
 ========================
 
-A minimalist and modern Beamer theme. Blog post regarding how this was written can be found here: http://hamaluik.com/posts/better-beamer-themes/
+A fork of Beamer-Theme-Execushares for persian (RTL) AUT (Amirkabir University of Technology) presentation.
+

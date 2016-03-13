@@ -1,0 +1,58 @@
+
+\let\color\bidicolor
+
+%\usepackage{pdfpages}
+\uselanguage{Persian}
+\usedictionary{translator-basic-dictionary}
+\usedictionary{translator-bibliography-dictionary}
+\usedictionary{translator-environment-dictionary}
+\usedictionary{translator-months-dictionary}
+\usedictionary{translator-numbers-dictionary}
+\usedictionary{translator-theorem-dictionary}
+
+\mode<presentation>
+\usetheme{Luebeck}%[secheader]{Madrid}%
+
+%\useinnertheme[shadow=true]{rounded}
+%\setbeamertemplate{blocks}[rounded][shadow=true]
+%\useoutertheme{infolines}
+%\useoutertheme{shadow}
+%\useoutertheme[height=0pt,width=2cm,right]{sidebar}
+\usecolortheme{rose,sidebartab}
+\useinnertheme{circles}
+\usefonttheme[only large]{structurebold}
+
+\setbeamertemplate{sections/subsections in toc}[ball unnumbered]%[ball]
+\setbeamertemplate{enumerate items}[square]
+\setbeamertemplate{navigation symbols}{}
+\setbeamertemplate{bibliography item}[book]
+%\usecolortheme[rgb={0.1,0.6,1}]{structure}%inner and outer theme
+%\usecolortheme{whale}%outer theme
+%\usecolortheme{orchid}%inner theme
+%\usecolortheme{rose}
+
+%\setbeamercolor{section in head/foot}{parent=palette tertiary}
+%\setbeamercolor{subsection in head/foot}{parent=palette secondary}
+%\setbeamercolor{author in head/foot}{parent=palette primary}
+%\setbeamercolor{title in head/foot}{parent=palette secondary}
+%\setbeamercolor{date in head/foot}{parent=palette primary}
+%\setbeamercolor{frametitle right}{parent=palette primary}
+%\setbeamercolor{frametitle}{use=structure,fg=red,bg=structure.fg}
+%\setbeamercolor{enumerate items}{use=structure,fg=red,bg=structure.fg}
+\setbeamercolor{background canvas}{bg=}
+% تغییر رنگ پس زمینه به صورت سایه‌دار عمودی
+%\setbeamertemplate{background canvas}[vertical shading][top=palette primary.fg, middle=blue!10, bottom=palette primary.bg, midpoint=0.5]
+%\setbeamercolor{normal text}{bg=yellow!20}
+%\setbeamercolor{title}{fg=yellow!80!black}
+%\setbeamercolor{author}{fg=red!90!yellow}
+%\setbeamercolor{institute}{fg=brown!80!black}
+%\setbeamercolor{date}{fg=blue!60!black}
+
+% اضافه کردن عکس به پس زمینه
+%\usebackgroundtemplate{\includegraphics[width=\paperwidth, height=\paperheight]{bg}}
+
+\setbeamersize{text margin left=2em, text margin right=2em}
+\usefonttheme{serif}
+\setbeamertemplate{navigation symbols}{}
+
+%\setbeamertemplate{background canvas}{myshading}{red!10}{blue!10}
